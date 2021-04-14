@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentList</string>
+    <string name="ascending">&#xf0de;</string>
+    <string name="descending">&#xf0dd;</string>
+    <string name="male">🙋‍♂️</string>
+    <string name="female">🙋‍</string>
+</resources>
